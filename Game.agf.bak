@@ -12,7 +12,7 @@
       <AntiAliasFonts>False</AntiAliasFonts>
       <AntiGlideMode>True</AntiGlideMode>
       <AttachDataToExe>False</AttachDataToExe>
-      <AudioIndexer>0</AudioIndexer>
+      <AudioIndexer>1</AudioIndexer>
       <AutoMoveInWalkMode>True</AutoMoveInWalkMode>
       <BackwardsText>False</BackwardsText>
       <BuildTargets>Windows</BuildTargets>
@@ -2214,7 +2214,7 @@
           </InventoryItem>
           <InventoryItem>
             <CursorImage>2</CursorImage>
-            <Description xml:space="preserve">The end of our game</Description>
+            <Description xml:space="preserve">Cease and Desist</Description>
             <HotspotX>0</HotspotX>
             <HotspotY>0</HotspotY>
             <ID>5</ID>
@@ -4890,7 +4890,21 @@ See KeyboardMovement.txt for details.
           </AudioClipFolder>
           <AudioClipFolder Name="Sounds">
             <SubFolders />
-            <AudioClips />
+            <AudioClips>
+              <AudioClip>
+                <BundlingType>InGameEXE</BundlingType>
+                <DefaultPriority>Inherit</DefaultPriority>
+                <DefaultRepeat>Inherit</DefaultRepeat>
+                <DefaultVolume>-1</DefaultVolume>
+                <FileType>WAV</FileType>
+                <ID>0</ID>
+                <Index>1</Index>
+                <ScriptName>agavel</ScriptName>
+                <SourceFileName xml:space="preserve">C:\Users\fortiz\Downloads\High Point University 2.wav</SourceFileName>
+                <Type>3</Type>
+                <FileLastModifiedDate>2024-08-28 15:29:38Z</FileLastModifiedDate>
+              </AudioClip>
+            </AudioClips>
             <AudioClipFolder>
               <DefaultBundlingType>InGameEXE</DefaultBundlingType>
               <DefaultPriority>Inherit</DefaultPriority>
