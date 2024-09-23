@@ -19,7 +19,7 @@
   </Component>
   <WorkspaceState>
     <LastBuildConfiguration>Debug</LastBuildConfiguration>
-    <LastBuildGameFileName>DataFile=Tutorial,Windows=Tutorial,_Debug=Tutorial,</LastBuildGameFileName>
+    <LastBuildGameFileName>DataFile=Tutorial,Windows=Tutorial,_Debug=Tutorial,Web=Tutorial,</LastBuildGameFileName>
     <RequiresRebuild>False</RequiresRebuild>
   </WorkspaceState>
 </AGSEditorUserData>

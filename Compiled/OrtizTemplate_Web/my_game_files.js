@@ -1,0 +1,1 @@
+var gamefiles = ['Tutorial.ags', 'acsetup.cfg'];
